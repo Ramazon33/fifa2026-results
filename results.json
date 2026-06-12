@@ -1,0 +1,21 @@
+{
+ "updated": "2026-06-12T05:05:42Z",
+ "results": [
+  {
+   "id": 1,
+   "status": "FINISHED",
+   "home": "MEX",
+   "away": "RSA",
+   "homeScore": 2,
+   "awayScore": 0
+  },
+  {
+   "id": 2,
+   "status": "FINISHED",
+   "home": "KOR",
+   "away": "CZE",
+   "homeScore": 2,
+   "awayScore": 1
+  }
+ ]
+}

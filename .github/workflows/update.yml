@@ -1,0 +1,43 @@
+name: Update results
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-results
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip after tournament end
+        id: gate
+        run: |
+          if [ "$(date -u +%Y%m%d)" -gt "20260722" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # cron minimum is 5 min and is often delayed, so the job itself
+      # polls every 60s for ~5 min -> effective freshness ~1-2 min
+      - name: Fetch and push updates
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          git config user.name "results-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            python fetch_results.py || echo "fetch failed, will retry"
+            if ! git diff --quiet results.json; then
+              git add results.json
+              git commit -m "update results"
+              git push
+            fi
+            [ "$i" -lt 5 ] && sleep 60
+          done

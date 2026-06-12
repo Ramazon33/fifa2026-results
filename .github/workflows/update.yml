@@ -39,5 +39,5 @@ jobs:
               git commit -m "update results"
               git push
             fi
-            [ "$i" -lt 5 ] && sleep 60
+            if [ "$i" -lt 5 ]; then sleep 60; fi
           done

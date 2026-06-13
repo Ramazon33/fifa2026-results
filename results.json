@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-13T04:45:48Z",
+ "updated": "2026-06-13T19:56:01Z",
  "results": [
   {
    "id": 1,
@@ -32,6 +32,15 @@
    "away": "PAR",
    "homeScore": 4,
    "awayScore": 1
+  },
+  {
+   "id": 8,
+   "status": "LIVE",
+   "home": "QAT",
+   "away": "SUI",
+   "homeScore": 0,
+   "awayScore": 1,
+   "minute": "45'+6'"
   }
  ]
 }

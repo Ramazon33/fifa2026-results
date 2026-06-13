@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-13T22:17:43Z",
+ "updated": "2026-06-13T23:21:09Z",
  "results": [
   {
    "id": 1,
@@ -38,9 +38,9 @@
    "status": "LIVE",
    "home": "BRA",
    "away": "MAR",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "13'"
+   "homeScore": 1,
+   "awayScore": 1,
+   "minute": "56'"
   },
   {
    "id": 8,

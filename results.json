@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T19:50:13Z",
+ "updated": "2026-06-14T20:54:07Z",
  "results": [
   {
    "id": 1,
@@ -72,6 +72,14 @@
    "away": "CUW",
    "homeScore": 7,
    "awayScore": 1
+  },
+  {
+   "id": 11,
+   "status": "LIVE",
+   "home": "NED",
+   "away": "JPN",
+   "homeScore": 0,
+   "awayScore": 0
   }
  ]
 }

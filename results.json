@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T18:03:37Z",
+ "updated": "2026-06-14T19:50:13Z",
  "results": [
   {
    "id": 1,
@@ -67,10 +67,10 @@
   },
   {
    "id": 10,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "GER",
    "away": "CUW",
-   "homeScore": 3,
+   "homeScore": 7,
    "awayScore": 1
   }
  ]

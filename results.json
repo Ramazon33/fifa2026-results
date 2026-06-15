@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T00:25:46Z",
+ "updated": "2026-06-15T05:31:41Z",
  "results": [
   {
    "id": 1,
@@ -67,12 +67,11 @@
   },
   {
    "id": 9,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "CIV",
    "away": "ECU",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "60'"
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 10,
@@ -89,6 +88,14 @@
    "away": "JPN",
    "homeScore": 2,
    "awayScore": 2
+  },
+  {
+   "id": 12,
+   "status": "FINISHED",
+   "home": "SWE",
+   "away": "TUN",
+   "homeScore": 5,
+   "awayScore": 1
   }
  ]
 }

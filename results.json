@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T16:31:52Z",
+ "updated": "2026-06-15T20:01:26Z",
  "results": [
   {
    "id": 1,
@@ -99,12 +99,19 @@
   },
   {
    "id": 14,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "ESP",
    "away": "CPV",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "31'"
+   "awayScore": 0
+  },
+  {
+   "id": 16,
+   "status": "LIVE",
+   "home": "BEL",
+   "away": "EGY",
+   "homeScore": 0,
+   "awayScore": 1
   }
  ]
 }

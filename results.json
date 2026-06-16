@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T22:26:50Z",
+ "updated": "2026-06-16T00:05:24Z",
  "results": [
   {
    "id": 1,
@@ -99,12 +99,11 @@
   },
   {
    "id": 13,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "KSA",
    "away": "URU",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "23'"
+   "homeScore": 1,
+   "awayScore": 1
   },
   {
    "id": 14,

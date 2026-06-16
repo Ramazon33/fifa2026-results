@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T00:05:24Z",
+ "updated": "2026-06-16T05:25:39Z",
  "results": [
   {
    "id": 1,
@@ -112,6 +112,14 @@
    "away": "CPV",
    "homeScore": 0,
    "awayScore": 0
+  },
+  {
+   "id": 15,
+   "status": "FINISHED",
+   "home": "IRN",
+   "away": "NZL",
+   "homeScore": 2,
+   "awayScore": 2
   },
   {
    "id": 16,

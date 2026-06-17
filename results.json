@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T17:33:42Z",
+ "updated": "2026-06-17T19:35:32Z",
  "results": [
   {
    "id": 1,
@@ -163,12 +163,11 @@
   },
   {
    "id": 23,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "POR",
    "away": "COD",
    "homeScore": 1,
-   "awayScore": 0,
-   "minute": "32'"
+   "awayScore": 1
   }
  ]
 }

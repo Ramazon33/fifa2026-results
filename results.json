@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T21:33:24Z",
+ "updated": "2026-06-17T23:01:05Z",
  "results": [
   {
    "id": 1,
@@ -163,12 +163,11 @@
   },
   {
    "id": 22,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "ENG",
    "away": "CRO",
-   "homeScore": 3,
-   "awayScore": 2,
-   "minute": "69'"
+   "homeScore": 4,
+   "awayScore": 2
   },
   {
    "id": 23,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T23:01:05Z",
+ "updated": "2026-06-17T23:02:07Z",
  "results": [
   {
    "id": 1,
@@ -160,6 +160,15 @@
    "away": "JOR",
    "homeScore": 3,
    "awayScore": 1
+  },
+  {
+   "id": 21,
+   "status": "LIVE",
+   "home": "GHA",
+   "away": "PAN",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "0'"
   },
   {
    "id": 22,

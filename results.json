@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T21:02:48Z",
+ "updated": "2026-06-18T22:59:44Z",
  "results": [
   {
    "id": 1,
@@ -208,6 +208,14 @@
    "away": "BIH",
    "homeScore": 4,
    "awayScore": 1
+  },
+  {
+   "id": 27,
+   "status": "LIVE",
+   "home": "CAN",
+   "away": "QAT",
+   "homeScore": 3,
+   "awayScore": 0
   }
  ]
 }

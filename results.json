@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T16:05:07Z",
+ "updated": "2026-06-18T16:06:10Z",
  "results": [
   {
    "id": 1,
@@ -198,9 +198,9 @@
    "status": "LIVE",
    "home": "CZE",
    "away": "RSA",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 0,
-   "minute": "5'"
+   "minute": "6'"
   }
  ]
 }

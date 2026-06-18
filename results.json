@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T00:21:06Z",
+ "updated": "2026-06-18T05:05:54Z",
  "results": [
   {
    "id": 1,
@@ -163,12 +163,11 @@
   },
   {
    "id": 21,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "GHA",
    "away": "PAN",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "60'"
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 22,
@@ -185,6 +184,14 @@
    "away": "COD",
    "homeScore": 1,
    "awayScore": 1
+  },
+  {
+   "id": 24,
+   "status": "FINISHED",
+   "home": "UZB",
+   "away": "COL",
+   "homeScore": 1,
+   "awayScore": 3
   }
  ]
 }

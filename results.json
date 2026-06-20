@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T08:13:49Z",
+ "updated": "2026-06-20T17:40:12Z",
  "results": [
   {
    "id": 1,
@@ -256,6 +256,15 @@
    "away": "AUS",
    "homeScore": 2,
    "awayScore": 0
+  },
+  {
+   "id": 35,
+   "status": "LIVE",
+   "home": "NED",
+   "away": "SWE",
+   "homeScore": 2,
+   "awayScore": 0,
+   "minute": "40'"
   },
   {
    "id": 79,

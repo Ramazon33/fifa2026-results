@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T04:48:11Z",
+ "updated": "2026-06-20T08:13:49Z",
  "results": [
   {
    "id": 1,
@@ -243,12 +243,11 @@
   },
   {
    "id": 31,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "TUR",
    "away": "PAR",
    "homeScore": 0,
-   "awayScore": 1,
-   "minute": "81'"
+   "awayScore": 1
   },
   {
    "id": 32,
@@ -262,6 +261,11 @@
    "id": 79,
    "status": "SCHEDULED",
    "home": "MEX"
+  },
+  {
+   "id": 81,
+   "status": "SCHEDULED",
+   "home": "USA"
   }
  ]
 }

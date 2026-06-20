@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T00:19:58Z",
+ "updated": "2026-06-20T04:44:06Z",
  "results": [
   {
    "id": 1,
@@ -226,12 +226,29 @@
    "awayScore": 0
   },
   {
+   "id": 29,
+   "status": "FINISHED",
+   "home": "BRA",
+   "away": "HAI",
+   "homeScore": 3,
+   "awayScore": 0
+  },
+  {
    "id": 30,
    "status": "FINISHED",
    "home": "SCO",
    "away": "MAR",
    "homeScore": 0,
    "awayScore": 1
+  },
+  {
+   "id": 31,
+   "status": "LIVE",
+   "home": "TUR",
+   "away": "PAR",
+   "homeScore": 0,
+   "awayScore": 1,
+   "minute": "77'"
   },
   {
    "id": 32,

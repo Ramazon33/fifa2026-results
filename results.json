@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T22:47:16Z",
+ "updated": "2026-06-21T02:07:55Z",
  "results": [
   {
    "id": 1,
@@ -266,12 +266,25 @@
    "awayScore": 1
   },
   {
+   "id": 34,
+   "status": "FINISHED",
+   "home": "ECU",
+   "away": "CUW",
+   "homeScore": 0,
+   "awayScore": 0
+  },
+  {
    "id": 35,
    "status": "FINISHED",
    "home": "NED",
    "away": "SWE",
    "homeScore": 5,
    "awayScore": 1
+  },
+  {
+   "id": 74,
+   "status": "SCHEDULED",
+   "home": "GER"
   },
   {
    "id": 79,

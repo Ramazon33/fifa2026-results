@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T07:03:14Z",
+ "updated": "2026-06-21T16:18:58Z",
  "results": [
   {
    "id": 1,
@@ -288,6 +288,15 @@
    "away": "JPN",
    "homeScore": 0,
    "awayScore": 4
+  },
+  {
+   "id": 38,
+   "status": "LIVE",
+   "home": "ESP",
+   "away": "KSA",
+   "homeScore": 1,
+   "awayScore": 0,
+   "minute": "18'"
   },
   {
    "id": 74,

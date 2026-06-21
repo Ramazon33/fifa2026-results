@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T23:25:46Z",
+ "updated": "2026-06-21T23:26:48Z",
  "results": [
   {
    "id": 1,
@@ -295,8 +295,8 @@
    "home": "URU",
    "away": "CPV",
    "homeScore": 2,
-   "awayScore": 1,
-   "minute": "60'"
+   "awayScore": 2,
+   "minute": "61'"
   },
   {
    "id": 38,

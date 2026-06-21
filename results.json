@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T02:07:55Z",
+ "updated": "2026-06-21T07:03:14Z",
  "results": [
   {
    "id": 1,
@@ -280,6 +280,14 @@
    "away": "SWE",
    "homeScore": 5,
    "awayScore": 1
+  },
+  {
+   "id": 36,
+   "status": "FINISHED",
+   "home": "TUN",
+   "away": "JPN",
+   "homeScore": 0,
+   "awayScore": 4
   },
   {
    "id": 74,

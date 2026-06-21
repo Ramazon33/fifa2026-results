@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T17:59:47Z",
+ "updated": "2026-06-21T19:13:13Z",
  "results": [
   {
    "id": 1,
@@ -291,12 +291,20 @@
   },
   {
    "id": 38,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "ESP",
    "away": "KSA",
    "homeScore": 4,
+   "awayScore": 0
+  },
+  {
+   "id": 39,
+   "status": "LIVE",
+   "home": "BEL",
+   "away": "IRN",
+   "homeScore": 0,
    "awayScore": 0,
-   "minute": "90'+7'"
+   "minute": "13'"
   },
   {
    "id": 74,

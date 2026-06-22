@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T23:26:48Z",
+ "updated": "2026-06-22T01:44:05Z",
  "results": [
   {
    "id": 1,
@@ -291,12 +291,11 @@
   },
   {
    "id": 37,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "URU",
    "away": "CPV",
    "homeScore": 2,
-   "awayScore": 2,
-   "minute": "61'"
+   "awayScore": 2
   },
   {
    "id": 38,
@@ -313,6 +312,15 @@
    "away": "IRN",
    "homeScore": 0,
    "awayScore": 0
+  },
+  {
+   "id": 40,
+   "status": "LIVE",
+   "home": "NZL",
+   "away": "EGY",
+   "homeScore": 1,
+   "awayScore": 0,
+   "minute": "44'"
   },
   {
    "id": 74,

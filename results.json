@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T20:18:25Z",
+ "updated": "2026-06-22T22:17:30Z",
  "results": [
   {
    "id": 1,
@@ -320,6 +320,14 @@
    "away": "EGY",
    "homeScore": 1,
    "awayScore": 3
+  },
+  {
+   "id": 42,
+   "status": "LIVE",
+   "home": "FRA",
+   "away": "IRQ",
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 43,

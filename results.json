@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T01:48:11Z",
+ "updated": "2026-06-22T07:04:31Z",
  "results": [
   {
    "id": 1,
@@ -315,12 +315,11 @@
   },
   {
    "id": 40,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "NZL",
    "away": "EGY",
    "homeScore": 1,
-   "awayScore": 0,
-   "minute": "45'+3'"
+   "awayScore": 3
   },
   {
    "id": 74,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T05:48:36Z",
+ "updated": "2026-06-23T18:25:56Z",
  "results": [
   {
    "id": 1,
@@ -352,6 +352,15 @@
    "away": "ALG",
    "homeScore": 1,
    "awayScore": 2
+  },
+  {
+   "id": 47,
+   "status": "LIVE",
+   "home": "POR",
+   "away": "UZB",
+   "homeScore": 4,
+   "awayScore": 0,
+   "minute": "62'"
   },
   {
    "id": 74,

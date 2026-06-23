@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T01:38:34Z",
+ "updated": "2026-06-23T05:48:36Z",
  "results": [
   {
    "id": 1,
@@ -323,12 +323,11 @@
   },
   {
    "id": 41,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "NOR",
    "away": "SEN",
    "homeScore": 3,
-   "awayScore": 1,
-   "minute": "79'"
+   "awayScore": 2
   },
   {
    "id": 42,
@@ -347,6 +346,14 @@
    "awayScore": 0
   },
   {
+   "id": 44,
+   "status": "FINISHED",
+   "home": "JOR",
+   "away": "ALG",
+   "homeScore": 1,
+   "awayScore": 2
+  },
+  {
    "id": 74,
    "status": "SCHEDULED",
    "home": "GER"
@@ -360,6 +367,11 @@
    "id": 81,
    "status": "SCHEDULED",
    "home": "USA"
+  },
+  {
+   "id": 86,
+   "status": "SCHEDULED",
+   "home": "ARG"
   }
  ]
 }

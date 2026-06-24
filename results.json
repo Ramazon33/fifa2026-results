@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T22:06:53Z",
+ "updated": "2026-06-24T23:14:49Z",
  "results": [
   {
    "id": 1,
@@ -391,17 +391,17 @@
    "home": "SCO",
    "away": "BRA",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "6'"
+   "awayScore": 2,
+   "minute": "49'"
   },
   {
    "id": 50,
    "status": "LIVE",
    "home": "MAR",
    "away": "HAI",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "6'"
+   "homeScore": 2,
+   "awayScore": 2,
+   "minute": "52'"
   },
   {
    "id": 51,

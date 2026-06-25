@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T20:28:54Z",
+ "updated": "2026-06-25T21:57:04Z",
  "results": [
   {
    "id": 1,
@@ -439,17 +439,17 @@
    "home": "CUW",
    "away": "CIV",
    "homeScore": 0,
-   "awayScore": 1,
-   "minute": "28'"
+   "awayScore": 2,
+   "minute": "90'+6'"
   },
   {
    "id": 56,
    "status": "LIVE",
    "home": "ECU",
    "away": "GER",
-   "homeScore": 1,
+   "homeScore": 2,
    "awayScore": 1,
-   "minute": "27'"
+   "minute": "90'+6'"
   },
   {
    "id": 73,

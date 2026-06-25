@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T01:30:50Z",
+ "updated": "2026-06-25T05:35:39Z",
  "results": [
   {
    "id": 1,
@@ -419,25 +419,24 @@
   },
   {
    "id": 53,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "CZE",
    "away": "MEX",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "30'"
+   "awayScore": 3
   },
   {
    "id": 54,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "RSA",
    "away": "KOR",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "30'"
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 73,
    "status": "SCHEDULED",
+   "home": "RSA",
    "away": "CAN"
   },
   {

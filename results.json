@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T21:57:04Z",
+ "updated": "2026-06-25T21:58:06Z",
  "results": [
   {
    "id": 1,
@@ -435,12 +435,11 @@
   },
   {
    "id": 55,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "CUW",
    "away": "CIV",
    "homeScore": 0,
-   "awayScore": 2,
-   "minute": "90'+6'"
+   "awayScore": 2
   },
   {
    "id": 56,

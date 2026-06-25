@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T21:59:07Z",
+ "updated": "2026-06-25T22:01:09Z",
  "results": [
   {
    "id": 1,
@@ -469,6 +469,11 @@
    "id": 76,
    "status": "SCHEDULED",
    "home": "BRA"
+  },
+  {
+   "id": 78,
+   "status": "SCHEDULED",
+   "home": "CIV"
   },
   {
    "id": 79,

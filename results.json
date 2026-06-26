@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T00:21:57Z",
+ "updated": "2026-06-26T00:22:58Z",
  "results": [
   {
    "id": 1,
@@ -455,8 +455,8 @@
    "home": "JPN",
    "away": "SWE",
    "homeScore": 1,
-   "awayScore": 0,
-   "minute": "59'"
+   "awayScore": 1,
+   "minute": "62'"
   },
   {
    "id": 58,
@@ -464,8 +464,8 @@
    "home": "TUN",
    "away": "NED",
    "homeScore": 1,
-   "awayScore": 2,
-   "minute": "60'"
+   "awayScore": 3,
+   "minute": "64'"
   },
   {
    "id": 73,

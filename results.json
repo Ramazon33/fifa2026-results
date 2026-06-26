@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T00:26:03Z",
+ "updated": "2026-06-26T04:45:48Z",
  "results": [
   {
    "id": 1,
@@ -451,21 +451,35 @@
   },
   {
    "id": 57,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "JPN",
    "away": "SWE",
    "homeScore": 1,
-   "awayScore": 1,
-   "minute": "65'"
+   "awayScore": 1
   },
   {
    "id": 58,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "TUN",
    "away": "NED",
    "homeScore": 1,
-   "awayScore": 3,
-   "minute": "66'"
+   "awayScore": 3
+  },
+  {
+   "id": 59,
+   "status": "FINISHED",
+   "home": "TUR",
+   "away": "USA",
+   "homeScore": 3,
+   "awayScore": 2
+  },
+  {
+   "id": 60,
+   "status": "FINISHED",
+   "home": "PAR",
+   "away": "AUS",
+   "homeScore": 0,
+   "awayScore": 0
   },
   {
    "id": 73,
@@ -481,12 +495,14 @@
   {
    "id": 75,
    "status": "SCHEDULED",
+   "home": "NED",
    "away": "MAR"
   },
   {
    "id": 76,
    "status": "SCHEDULED",
-   "home": "BRA"
+   "home": "BRA",
+   "away": "JPN"
   },
   {
    "id": 78,
@@ -501,7 +517,8 @@
   {
    "id": 81,
    "status": "SCHEDULED",
-   "home": "USA"
+   "home": "USA",
+   "away": "BIH"
   },
   {
    "id": 85,
@@ -512,6 +529,11 @@
    "id": 86,
    "status": "SCHEDULED",
    "home": "ARG"
+  },
+  {
+   "id": 88,
+   "status": "SCHEDULED",
+   "home": "AUS"
   }
  ]
 }

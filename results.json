@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T04:17:34Z",
+ "updated": "2026-06-27T07:26:38Z",
  "results": [
   {
    "id": 1,
@@ -499,21 +499,19 @@
   },
   {
    "id": 63,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "EGY",
    "away": "IRN",
    "homeScore": 1,
-   "awayScore": 1,
-   "minute": "53'"
+   "awayScore": 1
   },
   {
    "id": 64,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "NZL",
    "away": "BEL",
-   "homeScore": 0,
-   "awayScore": 2,
-   "minute": "55'"
+   "homeScore": 1,
+   "awayScore": 5
   },
   {
    "id": 65,
@@ -579,6 +577,11 @@
    "away": "BIH"
   },
   {
+   "id": 82,
+   "status": "SCHEDULED",
+   "home": "BEL"
+  },
+  {
    "id": 84,
    "status": "SCHEDULED",
    "home": "ESP"
@@ -597,7 +600,8 @@
   {
    "id": 88,
    "status": "SCHEDULED",
-   "home": "AUS"
+   "home": "AUS",
+   "away": "EGY"
   }
  ]
 }

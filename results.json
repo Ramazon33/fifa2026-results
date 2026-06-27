@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T00:13:20Z",
+ "updated": "2026-06-27T04:13:28Z",
  "results": [
   {
    "id": 1,
@@ -498,22 +498,38 @@
    "awayScore": 0
   },
   {
-   "id": 65,
+   "id": 63,
    "status": "LIVE",
+   "home": "EGY",
+   "away": "IRN",
+   "homeScore": 1,
+   "awayScore": 1,
+   "minute": "49'"
+  },
+  {
+   "id": 64,
+   "status": "LIVE",
+   "home": "NZL",
+   "away": "BEL",
+   "homeScore": 0,
+   "awayScore": 2,
+   "minute": "51'"
+  },
+  {
+   "id": 65,
+   "status": "FINISHED",
    "home": "CPV",
    "away": "KSA",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "11'"
+   "awayScore": 0
   },
   {
    "id": 66,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "URU",
    "away": "ESP",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "12'"
+   "awayScore": 1
   },
   {
    "id": 73,
@@ -524,7 +540,8 @@
   {
    "id": 74,
    "status": "SCHEDULED",
-   "home": "GER"
+   "home": "GER",
+   "away": "PAR"
   },
   {
    "id": 75,
@@ -541,7 +558,8 @@
   {
    "id": 77,
    "status": "SCHEDULED",
-   "home": "FRA"
+   "home": "FRA",
+   "away": "SWE"
   },
   {
    "id": 78,
@@ -561,6 +579,11 @@
    "away": "BIH"
   },
   {
+   "id": 84,
+   "status": "SCHEDULED",
+   "home": "ESP"
+  },
+  {
    "id": 85,
    "status": "SCHEDULED",
    "home": "SUI"
@@ -568,7 +591,8 @@
   {
    "id": 86,
    "status": "SCHEDULED",
-   "home": "ARG"
+   "home": "ARG",
+   "away": "CPV"
   },
   {
    "id": 88,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T04:14:30Z",
+ "updated": "2026-06-27T04:15:31Z",
  "results": [
   {
    "id": 1,
@@ -504,7 +504,7 @@
    "away": "IRN",
    "homeScore": 1,
    "awayScore": 1,
-   "minute": "50'"
+   "minute": "51'"
   },
   {
    "id": 64,
@@ -513,7 +513,7 @@
    "away": "BEL",
    "homeScore": 0,
    "awayScore": 2,
-   "minute": "52'"
+   "minute": "53'"
   },
   {
    "id": 65,

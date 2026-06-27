@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T21:56:59Z",
+ "updated": "2026-06-27T00:09:15Z",
  "results": [
   {
    "id": 1,
@@ -496,6 +496,24 @@
    "away": "IRQ",
    "homeScore": 5,
    "awayScore": 0
+  },
+  {
+   "id": 65,
+   "status": "LIVE",
+   "home": "CPV",
+   "away": "KSA",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "7'"
+  },
+  {
+   "id": 66,
+   "status": "LIVE",
+   "home": "URU",
+   "away": "ESP",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "8'"
   },
   {
    "id": 73,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T20:03:05Z",
+ "updated": "2026-06-28T20:06:08Z",
  "results": [
   {
    "id": 1,
@@ -583,7 +583,8 @@
    "home": "RSA",
    "away": "CAN",
    "homeScore": 0,
-   "awayScore": 0
+   "awayScore": 0,
+   "minute": "45'"
   },
   {
    "id": 74,

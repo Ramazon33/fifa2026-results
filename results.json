@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T00:19:15Z",
+ "updated": "2026-06-28T04:51:09Z",
  "results": [
   {
    "id": 1,
@@ -546,22 +546,36 @@
    "awayScore": 1
   },
   {
+   "id": 69,
+   "status": "FINISHED",
+   "home": "ALG",
+   "away": "AUT",
+   "homeScore": 3,
+   "awayScore": 3
+  },
+  {
+   "id": 70,
+   "status": "FINISHED",
+   "home": "JOR",
+   "away": "ARG",
+   "homeScore": 1,
+   "awayScore": 3
+  },
+  {
    "id": 71,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "COL",
    "away": "POR",
    "homeScore": 0,
-   "awayScore": 0,
-   "minute": "45'+3'"
+   "awayScore": 0
   },
   {
    "id": 72,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "COD",
    "away": "UZB",
-   "homeScore": 0,
-   "awayScore": 1,
-   "minute": "45'+3'"
+   "homeScore": 3,
+   "awayScore": 1
   },
   {
    "id": 73,
@@ -608,7 +622,8 @@
   {
    "id": 80,
    "status": "SCHEDULED",
-   "home": "ENG"
+   "home": "ENG",
+   "away": "COD"
   },
   {
    "id": 81,
@@ -619,22 +634,26 @@
   {
    "id": 82,
    "status": "SCHEDULED",
-   "home": "BEL"
+   "home": "BEL",
+   "away": "SEN"
   },
   {
    "id": 83,
    "status": "SCHEDULED",
+   "home": "POR",
    "away": "CRO"
   },
   {
    "id": 84,
    "status": "SCHEDULED",
-   "home": "ESP"
+   "home": "ESP",
+   "away": "AUT"
   },
   {
    "id": 85,
    "status": "SCHEDULED",
-   "home": "SUI"
+   "home": "SUI",
+   "away": "ALG"
   },
   {
    "id": 86,
@@ -645,6 +664,7 @@
   {
    "id": 87,
    "status": "SCHEDULED",
+   "home": "COL",
    "away": "GHA"
   },
   {

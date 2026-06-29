@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T17:29:30Z",
+ "updated": "2026-06-29T19:18:54Z",
  "results": [
   {
    "id": 1,
@@ -599,12 +599,11 @@
   },
   {
    "id": 76,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "BRA",
    "away": "JPN",
-   "homeScore": 0,
-   "awayScore": 1,
-   "minute": "29'"
+   "homeScore": 2,
+   "awayScore": 1
   },
   {
    "id": 77,
@@ -682,6 +681,11 @@
    "id": 90,
    "status": "SCHEDULED",
    "home": "CAN"
+  },
+  {
+   "id": 91,
+   "status": "SCHEDULED",
+   "home": "BRA"
   }
  ]
 }

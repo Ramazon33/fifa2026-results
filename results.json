@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T21:12:07Z",
+ "updated": "2026-06-29T17:25:25Z",
  "results": [
   {
    "id": 1,
@@ -599,9 +599,12 @@
   },
   {
    "id": 76,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "BRA",
-   "away": "JPN"
+   "away": "JPN",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "23'"
   },
   {
    "id": 77,

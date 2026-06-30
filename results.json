@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T00:17:45Z",
+ "updated": "2026-06-30T04:36:04Z",
  "results": [
   {
    "id": 1,
@@ -597,9 +597,13 @@
   },
   {
    "id": 75,
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "NED",
-   "away": "MAR"
+   "away": "MAR",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": 2,
+   "awayPens": 3
   },
   {
    "id": 76,
@@ -689,7 +693,8 @@
   {
    "id": 90,
    "status": "SCHEDULED",
-   "home": "CAN"
+   "home": "CAN",
+   "away": "MAR"
   },
   {
    "id": 91,

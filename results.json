@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T17:32:01Z",
+ "updated": "2026-06-30T19:16:56Z",
  "results": [
   {
    "id": 1,
@@ -621,12 +621,11 @@
   },
   {
    "id": 78,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "CIV",
    "away": "NOR",
-   "homeScore": 0,
-   "awayScore": 0,
-   "minute": "31'"
+   "homeScore": 1,
+   "awayScore": 2
   },
   {
    "id": 79,
@@ -702,7 +701,8 @@
   {
    "id": 91,
    "status": "SCHEDULED",
-   "home": "BRA"
+   "home": "BRA",
+   "away": "NOR"
   }
  ]
 }

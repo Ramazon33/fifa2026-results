@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T23:13:14Z",
+ "updated": "2026-06-30T00:17:45Z",
  "results": [
   {
    "id": 1,
@@ -587,11 +587,13 @@
   },
   {
    "id": 74,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "GER",
    "away": "PAR",
    "homeScore": 1,
-   "awayScore": 1
+   "awayScore": 1,
+   "homePens": 3,
+   "awayPens": 4
   },
   {
    "id": 75,
@@ -678,6 +680,11 @@
    "status": "SCHEDULED",
    "home": "AUS",
    "away": "EGY"
+  },
+  {
+   "id": 89,
+   "status": "SCHEDULED",
+   "home": "PAR"
   },
   {
    "id": 90,

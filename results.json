@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T20:11:11Z",
+ "updated": "2026-07-02T21:20:11Z",
  "results": [
   {
    "id": 1,
@@ -669,12 +669,11 @@
   },
   {
    "id": 84,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "ESP",
    "away": "AUT",
-   "homeScore": 1,
-   "awayScore": 0,
-   "minute": "49'"
+   "homeScore": 3,
+   "awayScore": 0
   },
   {
    "id": 85,
@@ -723,6 +722,11 @@
    "status": "SCHEDULED",
    "home": "MEX",
    "away": "ENG"
+  },
+  {
+   "id": 93,
+   "status": "SCHEDULED",
+   "away": "ESP"
   },
   {
    "id": 94,

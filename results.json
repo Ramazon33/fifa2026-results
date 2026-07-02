@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T23:40:55Z",
+ "updated": "2026-07-02T01:35:39Z",
  "results": [
   {
    "id": 1,
@@ -647,9 +647,12 @@
   },
   {
    "id": 81,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "USA",
-   "away": "BIH"
+   "away": "BIH",
+   "homeScore": 1,
+   "awayScore": 0,
+   "minute": "69'"
   },
   {
    "id": 82,

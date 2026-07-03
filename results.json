@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T04:57:21Z",
+ "updated": "2026-07-03T04:59:22Z",
  "results": [
   {
    "id": 1,
@@ -738,6 +738,11 @@
    "status": "SCHEDULED",
    "home": "USA",
    "away": "BEL"
+  },
+  {
+   "id": 96,
+   "status": "SCHEDULED",
+   "home": "SUI"
   }
  ]
 }

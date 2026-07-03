@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T04:59:22Z",
+ "updated": "2026-07-03T18:50:11Z",
  "results": [
   {
    "id": 1,
@@ -699,9 +699,12 @@
   },
   {
    "id": 88,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "AUS",
-   "away": "EGY"
+   "away": "EGY",
+   "homeScore": 0,
+   "awayScore": 1,
+   "minute": "45'+5'"
   },
   {
    "id": 89,

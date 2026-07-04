@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T01:07:32Z",
+ "updated": "2026-07-04T04:46:43Z",
  "results": [
   {
    "id": 1,
@@ -695,9 +695,11 @@
   },
   {
    "id": 87,
-   "status": "SCHEDULED",
+   "status": "FINISHED",
    "home": "COL",
-   "away": "GHA"
+   "away": "GHA",
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 88,
@@ -754,7 +756,8 @@
   {
    "id": 96,
    "status": "SCHEDULED",
-   "home": "SUI"
+   "home": "SUI",
+   "away": "COL"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T22:00:18Z",
+ "updated": "2026-07-05T22:53:26Z",
  "results": [
   {
    "id": 1,
@@ -729,12 +729,11 @@
   },
   {
    "id": 91,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "BRA",
    "away": "NOR",
-   "homeScore": 0,
-   "awayScore": 2,
-   "minute": "90'+8'"
+   "homeScore": 1,
+   "awayScore": 2
   },
   {
    "id": 92,
@@ -771,6 +770,11 @@
    "status": "SCHEDULED",
    "home": "FRA",
    "away": "MAR"
+  },
+  {
+   "id": 99,
+   "status": "SCHEDULED",
+   "home": "NOR"
   }
  ]
 }

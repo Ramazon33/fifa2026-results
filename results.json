@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T05:52:15Z",
+ "updated": "2026-07-06T20:22:03Z",
  "results": [
   {
    "id": 1,
@@ -745,9 +745,12 @@
   },
   {
    "id": 93,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "POR",
-   "away": "ESP"
+   "away": "ESP",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "59'"
   },
   {
    "id": 94,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T22:45:10Z",
+ "updated": "2026-07-07T22:46:11Z",
  "results": [
   {
    "id": 1,
@@ -774,8 +774,8 @@
    "away": "COL",
    "homeScore": 0,
    "awayScore": 0,
-   "homePens": 1,
-   "awayPens": 1
+   "homePens": 2,
+   "awayPens": 2
   },
   {
    "id": 97,

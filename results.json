@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T22:46:11Z",
+ "updated": "2026-07-07T23:35:05Z",
  "results": [
   {
    "id": 1,
@@ -769,13 +769,13 @@
   },
   {
    "id": 96,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "SUI",
    "away": "COL",
    "homeScore": 0,
    "awayScore": 0,
-   "homePens": 2,
-   "awayPens": 2
+   "homePens": 4,
+   "awayPens": 3
   },
   {
    "id": 97,
@@ -798,7 +798,8 @@
   {
    "id": 100,
    "status": "SCHEDULED",
-   "home": "ARG"
+   "home": "ARG",
+   "away": "SUI"
   }
  ]
 }

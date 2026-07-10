@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T22:53:01Z",
+ "updated": "2026-07-10T20:12:09Z",
  "results": [
   {
    "id": 1,
@@ -787,9 +787,12 @@
   },
   {
    "id": 98,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "ESP",
-   "away": "BEL"
+   "away": "BEL",
+   "homeScore": 1,
+   "awayScore": 1,
+   "minute": "50'"
   },
   {
    "id": 99,

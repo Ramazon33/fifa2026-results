@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T01:10:09Z",
+ "updated": "2026-07-12T01:11:10Z",
  "results": [
   {
    "id": 1,
@@ -806,9 +806,9 @@
    "status": "LIVE",
    "home": "ARG",
    "away": "SUI",
-   "homeScore": 0,
+   "homeScore": 2,
    "awayScore": 0,
-   "minute": "9'"
+   "minute": "10'"
   },
   {
    "id": 101,

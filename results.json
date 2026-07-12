@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T23:35:57Z",
+ "updated": "2026-07-12T01:07:06Z",
  "results": [
   {
    "id": 1,
@@ -795,24 +795,31 @@
   },
   {
    "id": 99,
-   "status": "LIVE",
+   "status": "FINISHED",
    "home": "NOR",
    "away": "ENG",
    "homeScore": 1,
-   "awayScore": 2,
-   "minute": "112'"
+   "awayScore": 2
   },
   {
    "id": 100,
-   "status": "SCHEDULED",
+   "status": "LIVE",
    "home": "ARG",
-   "away": "SUI"
+   "away": "SUI",
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "6'"
   },
   {
    "id": 101,
    "status": "SCHEDULED",
    "home": "FRA",
    "away": "ESP"
+  },
+  {
+   "id": 102,
+   "status": "SCHEDULED",
+   "home": "ENG"
   }
  ]
 }

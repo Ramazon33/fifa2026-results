@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T21:13:56Z",
+ "updated": "2026-07-18T22:03:22Z",
  "results": [
   {
    "id": 1,
@@ -831,8 +831,7 @@
    "home": "FRA",
    "away": "ENG",
    "homeScore": 0,
-   "awayScore": 1,
-   "minute": "14'"
+   "awayScore": 4
   },
   {
    "id": 104,
